@@ -30,6 +30,11 @@ html, body {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(255, 255, 255);
 }
+.active {
+    background-color: rgb(0, 87, 87);
+    padding-left: 10px;
+    padding-right: 10px;
+}
 /*here*/
 
 h1 {
@@ -86,7 +91,9 @@ footer {
         padding-bottom:10px;
         margin-bottom:10px;
         border-bottom:solid #dddddd 4px;
-
-
+     
+       
     }
+    
+
 } 
